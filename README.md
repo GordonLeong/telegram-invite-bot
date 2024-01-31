@@ -78,29 +78,28 @@ The main goals we identified were:
 - Cost-effective solution given non-profit status
 
 The final set of business requirements are summarised as follows:
-## Feature: Invite Link Generator
 
-### User Persona: New Members of DOCS
-**User Story**: As a new member, I am seeking a hassle-free way to join the official Telegram group.
+## User Persona: New Members of DOCS
+**User Story**: As a new member, often busy and on-the-go, I am seeking a quick and hassle-free way to join the official Telegram group.
 
-- **Business Requirement**:
-  - Cost-effective solution to generate one-time use invite links round the clock.
-  - Automated authorization of entry.
+**Business Requirement**:
+- A cost-effective solution to generate one-time use invite links round the clock.
+- Automated, quick authorization of entry to accommodate my busy schedule.
 
-### User Persona: Executive Committee
-**User Story**: As an Executive Committee member, I want to ensure secure and controlled access to the group.
+## User Persona: Executive Committee
+**User Story**: As an Executive Committee member, concerned about the group's security and privacy, I want to ensure that only verified members can access our exclusive Telegram group.
 
-- **Business Requirement**:
-  - Bot checks input phone number against whitelist database before sending invite link, to restrict unauthorized entries.
+**Business Requirement**:
+- Bot must check input phone numbers against a whitelist database before sending an invite link, to ensure controlled and secure access.
 
-### User Persona: Whitelist Manager / Group Administrator
-**User Story**: As an Admin of the Telegram group, I want an easy way to manage group membership and ensure group privacy.
+## User Persona: Whitelist Manager / Group Administrator
+**User Story**: As an Admin of the Telegram group, I want an efficient and straightforward way to manage group membership while maintaining the group's privacy and exclusivity.
 
-- **Business Requirement**:
-  - Upload/export whitelist via CSV file.
-  - Add/remove numbers from the whitelist.
-  - Check if numbers are on the whitelist.
-  - Only allow admins to access management functions.
+**Business Requirement**:
+- Ability to upload/export the whitelist via a CSV file for easy management.
+- Features to add/remove numbers from the whitelist with minimal hassle.
+- Functionality to check if numbers are on the whitelist for audit and verification.
+- Ensure that only admins have access to these management functions, preserving operational security.
 
 
 ## Technical Requirements and Considerations
