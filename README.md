@@ -160,6 +160,14 @@ After implementing the Telegram bot for DOCS, feedback from the group administra
 - **Reduced Manual Effort**: Administrators reported an estimated 90% reduction in the time spent on managing member additions.
 - **User Satisfaction**: The ease of use and efficiency of the bot were highlighted as major improvements.
 
+## AI Integration in Development Process
+### ChatGPT-Assisted Development
+- **Prompt Engineering**: Leveraged ChatGPT for various aspects of the development process, including code troubleshooting, logic flow ideation, and user experience design.
+- **Efficiency and Innovation**: Utilized AI-generated suggestions to enhance development efficiency and explore innovative solutions.
+- **AI-Assisted Problem Solving**: Employed AI tools for quick resolution of coding issues and to obtain diverse perspectives on design challenges.
+
+The use of ChatGPT showcases the integration of AI in software development workflows, contributing to a more efficient and creative project development process.
+
 ### Hypothetical Measures of Success
 
 While not formally measured, the following outcomes are anticipated based on the bot's functionalities:
