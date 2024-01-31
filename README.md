@@ -156,7 +156,7 @@ The security design for admin privileges in this project is built to safeguard a
 
 
 
-## AI Integration in Development Process
+## AI in Development Process
 ### ChatGPT-Assisted Development
 - **Prompt Engineering**: Leveraged ChatGPT for various aspects of the development process, including code troubleshooting, logic flow ideation, and user experience design.
 - **Efficiency and Innovation**: Utilized AI-generated suggestions to enhance development efficiency and explore innovative solutions.
