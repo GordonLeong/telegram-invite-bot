@@ -5,7 +5,7 @@ The following document serves as a record of the discussion between Gordon and D
 
 The agreement was for Gordon to develop a Telegram bot (“the Bot”) for DOCS on a pro bono basis, that aims to grant the Committee an automated way to control entrants to its group, while minimizing both unauthorized entrants and the need for manual intervention by administrators.
 
-## Project Endorsement
+###### Project Endorsement
 
 Feedback and endorsement from the Executive Committee member of DOCS is available upon request to respect their privacy
 
