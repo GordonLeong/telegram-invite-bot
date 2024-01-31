@@ -115,6 +115,15 @@ The final set of business requirements are summarised as follows:
 - **Intuitive Backend Interaction**: The bot provides a user-friendly interface for on-the-fly whitelist management, reducing reliance on manual methods like Excel.
 - **Flexibility in Management**: This approach allows administrators to dynamically manage member access, aligning with the needs of a growing and active community.
 
+### Choice of Python as Programming Language
+- **Ease of Use and Learning**: Python was selected due to its reputation for being user-friendly and easy to learn. This makes the bot more maintainable and accessible for future developers who might take over the project.
+- **Wide Availability of Resources**: Python's popularity ensures a wealth of tutorials, libraries, and community support, which can be invaluable for maintenance or future upgrades.
+- **Versatility and Compatibility**: Known for its versatility, Python is compatible with various APIs and cloud services, making it an ideal choice for integrating with Telegram and Firebase.
+- **Sustainability**: Given the likelihood of future maintenance or upgrades by different developers, Python's readability and straightforward syntax reduce the learning curve and facilitate easier handovers.
+
+The decision to use Python aligns with the project's goals of creating a solution that is not only functional and efficient but also sustainable and easy to maintain in the long run.
+
+
 The technical architecture of this project not only addresses the immediate functional requirements but also provides a foundation that is scalable, cost-effective, and adaptable for potential future enhancements.
 
 ## Security and Admin Privileges
