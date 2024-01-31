@@ -5,6 +5,10 @@ The following document serves as a record of the discussion between Gordon and D
 
 The agreement was for Gordon to develop a Telegram bot (“the Bot”) for DOCS on a pro bono basis, that aims to grant the Committee an automated way to control entrants to its group, while minimizing both unauthorized entrants and the need for manual intervention by administrators.
 
+## Project Endorsement
+
+Feedback and endorsement from the Executive Committee member of DOCS is available upon request to respect their privacy
+
 ## Problem Statement
 DOCS currently receives around 10 new Telegram group join requests per month. With only a few active administrators and their limited availability on weekday nights/weekends, this volume is difficult to handle manually.
 
@@ -182,9 +186,7 @@ While not formally measured, the following outcomes are anticipated based on the
 ## Conclusion
 The DOCS Telegram bot project demonstrates the application of serverless architecture and bot development to streamline administrative processes. The estimated impacts, based on administrator feedback, suggest a notable improvement in efficiency and security for the DOCS group management.
 
-## Project Endorsement
 
-Feedback and endorsement from the Executive Committee member of DOCS is available upon request to respect their privacy
 
 
 
