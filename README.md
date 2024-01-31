@@ -153,13 +153,6 @@ The security design for admin privileges in this project is built to safeguard a
 
 
 
-## Project Impact and Feedback
-
-After implementing the Telegram bot for DOCS, feedback from the group administrators indicated a significant improvement in managing new member entries. Key points from the feedback include:
-
-- **Reduced Manual Effort**: Administrators reported an estimated 90% reduction in the time spent on managing member additions.
-- **User Satisfaction**: The ease of use and efficiency of the bot were highlighted as major improvements.
-
 ## AI Integration in Development Process
 ### ChatGPT-Assisted Development
 - **Prompt Engineering**: Leveraged ChatGPT for various aspects of the development process, including code troubleshooting, logic flow ideation, and user experience design.
@@ -167,6 +160,15 @@ After implementing the Telegram bot for DOCS, feedback from the group administra
 - **AI-Assisted Problem Solving**: Employed AI tools for quick resolution of coding issues and to obtain diverse perspectives on design challenges.
 
 The use of ChatGPT showcases the integration of AI in software development workflows, contributing to a more efficient and creative project development process.
+
+## Project Impact and Feedback
+
+After implementing the Telegram bot for DOCS, feedback from the group administrators indicated a significant improvement in managing new member entries. Key points from the feedback include:
+
+- **Reduced Manual Effort**: Administrators reported an estimated 90% reduction in the time spent on managing member additions.
+- **User Satisfaction**: The ease of use and efficiency of the bot were highlighted as major improvements.
+
+
 
 ### Hypothetical Measures of Success
 
