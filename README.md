@@ -159,6 +159,11 @@ While not formally measured, the following outcomes are anticipated based on the
 ## Conclusion
 The DOCS Telegram bot project demonstrates the application of serverless architecture and bot development to streamline administrative processes. The estimated impacts, based on administrator feedback, suggest a notable improvement in efficiency and security for the DOCS group management.
 
+## Project Endorsement
+
+_Feedback and endorsement from the Executive Committee member of DOCS are available upon request to respect their privacy.
+_
+
 
 
 
