@@ -29,6 +29,10 @@ The solution provides several critical benefits, enhancing both the efficiency a
 - **Round-the-Clock Accessibility**: The bot operates continuously, offering immediate response to membership requests and reducing dependency on administrator availability.
 - **Seamless Integration**: The use of Telegram for the bot aligns with the existing communication platform used by DOCS, ensuring a cohesive experience for both administrators and members.
 
+## Project Overview
+This section briefly introduces the project, including the objectives, technical stack, and the approach to project management. While traditional methods like hypothesis testing and extensive market research were not applicable due to the project's specific and targeted requirements, direct user feedback and clear guidelines from the DOCS team were instrumental in guiding the development process.
+
+
 ## Project Scope
 
 The DOCS Telegram bot project is scoped to specifically address the needs of efficient and secure group membership management within the DOCS Telegram group. The scope encompasses:
