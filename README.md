@@ -1,7 +1,7 @@
 # Project - DOCS Invite Bot
 
 ## Overview
-The following document serves as a record of the discussion between Gordon and Ducati Official Club Singapore (“DOCS”) represented by its Treasurer/Executive Committee Member, Nicholas Tan. DOCS is a non-profit society based in Singapore. The society uses, among other things, a private Telegram group as a communication channel between its Executive Committee (“the Committee”) and its members for disbursement of information to its members.
+The following document serves as a record of the discussion between Gordon and Ducati Official Club Singapore (“DOCS”) represented by its Treasurer/Executive Committee Member, N Tan. DOCS is a non-profit society based in Singapore. The society uses, among other things, a private Telegram group as a communication channel between its Executive Committee (“the Committee”) and its members for disbursement of information to its members.
 
 The agreement was for Gordon to develop a Telegram bot (“the Bot”) for DOCS on a pro bono basis, that aims to grant the Committee an automated way to control entrants to its group, while minimizing both unauthorized entrants and the need for manual intervention by administrators.
 
@@ -35,7 +35,7 @@ The scope of this project is focused on delivering an efficient, secure, and use
 ## Business Requirements 
 
 ### Gathering Business Requirements
-I conducted a comprehensive business requirements interview with Nicholas Tan, the key stakeholder and committee member of the motorcycle club, to understand their needs and constraints.
+I conducted a comprehensive business requirements interview with N Tan, the key stakeholder and committee member of the motorcycle club, to understand their needs and constraints.
 
 The main goals we identified were:
 - Automate entry approval process to reduce manual checks by administrators
