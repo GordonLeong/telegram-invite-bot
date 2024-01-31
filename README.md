@@ -161,8 +161,7 @@ The DOCS Telegram bot project demonstrates the application of serverless archite
 
 ## Project Endorsement
 
-_Feedback and endorsement from the Executive Committee member of DOCS are available upon request to respect their privacy.
-_
+Feedback and endorsement from the Executive Committee member of DOCS is available upon request to respect their privacy
 
 
 
